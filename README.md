@@ -3,6 +3,6 @@ Hi! I'm Salman. Enthusiast "Front end developer" (HTML, CSS, Javascript, React) 
 Github: tosalmanshaikh  - all the recent projects that we have been working on at Novi Hogeschool. 
 
 
-Want to know more? Send me a DM or email me at tosalmanshaikh@gmail.com
----------------------------------------------------------------------------------------------------------
 React | JavaScript | HTML | CSS
+---------------------------------------------------------------------------------------------------------
+Want to know more? Send me a DM or email me at tosalmanshaikh@gmail.com

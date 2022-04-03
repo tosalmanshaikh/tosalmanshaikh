@@ -1,4 +1,4 @@
-Enthusiast: "Front end developer" | HTML | CSS | Javascript |  React
+Enthusiast: "Front end developer" 
 
 
 React | JavaScript | HTML | CSS
